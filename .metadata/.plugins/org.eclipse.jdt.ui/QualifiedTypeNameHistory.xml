@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<qualifiedTypeNameHistroy>
+<fullyQualifiedTypeName name="java.io.InputStream"/>
+<fullyQualifiedTypeName name="java.net.URI"/>
+<fullyQualifiedTypeName name="org.apache.hadoop.fs.FsUrlStreamHandlerFactory"/>
+<fullyQualifiedTypeName name="org.apache.hadoop.fs.Path"/>
+<fullyQualifiedTypeName name="org.apache.hadoop.io.IOUtils"/>
+<fullyQualifiedTypeName name="org.apache.hadoop.fs.FileSystem"/>
+<fullyQualifiedTypeName name="org.apache.hadoop.mapreduce.Mapper"/>
+<fullyQualifiedTypeName name="org.apache.hadoop.io.LongWritable"/>
+<fullyQualifiedTypeName name="org.apache.hadoop.mapreduce.Reducer"/>
+<fullyQualifiedTypeName name="org.apache.hadoop.conf.Configuration"/>
+<fullyQualifiedTypeName name="org.apache.hadoop.mapreduce.Job"/>
+<fullyQualifiedTypeName name="org.apache.hadoop.io.IntWritable"/>
+<fullyQualifiedTypeName name="org.apache.hadoop.io.Text"/>
+<fullyQualifiedTypeName name="org.apache.hadoop.mapreduce.lib.input.FileInputFormat"/>
+<fullyQualifiedTypeName name="org.apache.hadoop.mapreduce.lib.output.FileOutputFormat"/>
+<fullyQualifiedTypeName name="java.util.concurrent.locks.ReentrantLock"/>
+<fullyQualifiedTypeName name="java.util.concurrent.locks.Lock"/>
+<fullyQualifiedTypeName name="java.util.concurrent.ExecutorService"/>
+<fullyQualifiedTypeName name="java.util.concurrent.Executor"/>
+<fullyQualifiedTypeName name="java.util.List"/>
+<fullyQualifiedTypeName name="java.lang.Math"/>
+<fullyQualifiedTypeName name="java.util.concurrent.Future"/>
+<fullyQualifiedTypeName name="java.util.concurrent.Executors"/>
+<fullyQualifiedTypeName name="java.util.Arrays"/>
+<fullyQualifiedTypeName name="java.util.concurrent.RecursiveAction"/>
+<fullyQualifiedTypeName name="java.lang.Thread"/>
+<fullyQualifiedTypeName name="java.util.concurrent.TimeUnit"/>
+</qualifiedTypeNameHistroy>

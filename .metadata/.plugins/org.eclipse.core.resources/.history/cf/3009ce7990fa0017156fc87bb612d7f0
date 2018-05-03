@@ -1,0 +1,8 @@
+package zookeeper;
+
+public class ZKClient {
+
+	public static void main(String[] args) {
+		String CONN="192.168.31:2181,192.168.3.32:2181,192.168.3.21:2181";
+	}
+}

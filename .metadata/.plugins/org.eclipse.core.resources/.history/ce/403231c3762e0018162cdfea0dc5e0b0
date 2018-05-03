@@ -1,0 +1,5 @@
+package com.darren.annotation;
+
+public @interface Yts {
+
+}

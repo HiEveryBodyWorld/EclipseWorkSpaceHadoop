@@ -1,0 +1,17 @@
+import java.io.InputStream;
+import java.net.URL;
+
+import org.apache.hadoop.fs.FsUrlStreamHandlerFactory;
+import org.apache.hadoop.io.IOUtils;
+
+
+public class HelloHDFS {
+
+
+	public static void main(String[] args) throws Exception {
+		URL.setURLStreamHandlerFactory(new FsUrlStreamHandlerFactory());
+		URL url = new URL("hdfs://192.168.3.31:50070/hello.txt");
+		InputStream in = url.openStream();
+		IOUtils.copyBytes(in, System.out, 4093,true);
+	}
+}

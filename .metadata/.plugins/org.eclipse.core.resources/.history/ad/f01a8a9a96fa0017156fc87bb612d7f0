@@ -1,0 +1,10 @@
+package zookeeper;
+
+public class TankMaster {
+
+	static String status= "ACTIVE";
+	
+	public static void main(String[] args) {
+		
+	}
+}
